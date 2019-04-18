@@ -1,0 +1,26 @@
+/*!
+ * mishmash v0.0.1
+ * Bootstrap Mishmash
+ * (c) 2019 BinaryRx
+ * MIT License
+ * https://github.com/binaryrx/Bootstrap_4_MishMash
+ */
+
+/**
+ * @section Base Styles
+ */
+/* line 5, src/sass/components/_base.scss */
+body {
+  font-size: 125%;
+  margin: 0 auto;
+  max-width: 42em;
+  width: 88%;
+}
+
+/* line 12, src/sass/components/_base.scss */
+input,
+textarea,
+select,
+button {
+  font: inherit;
+}
