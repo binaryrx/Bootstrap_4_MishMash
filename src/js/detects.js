@@ -1,1 +1,4 @@
-console.log('detects.js file loaded');
+console.log('Javascript Ready');
+$(document).ready(function(){
+    console.log("jQuery Ready")
+});

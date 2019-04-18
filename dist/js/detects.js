@@ -6,4 +6,7 @@
  * https://github.com/binaryrx/Bootstrap_4_MishMash
  */
 
-console.log('detects.js file loaded');
+console.log('Javascript Ready');
+$(document).ready((function(){
+    console.log("jQuery Ready")
+}));
