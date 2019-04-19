@@ -1,7 +1,7 @@
 {
-	"name": "mishmash",
+	"name": "Bootstrap_sandbox",
 	"version": "0.0.1",
-	"description": "Bootstrap Mishmash",
+	"description": "Bootstrap sandbox",
 	"main": "./dist/your-main-js-file.js",
 	"author": {
 		"name": "BinaryRx",
@@ -10,7 +10,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/binaryrx/Bootstrap_4_MishMash"
+		"url": "https://github.com/binaryrx/Bootstrap_sandbox"
 	},
 	"devDependencies": {
 		"gulp": "4.0.0",
